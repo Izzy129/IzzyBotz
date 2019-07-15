@@ -1,0 +1,11 @@
+{
+	"botNames": [
+		"[doge]IzzyBotz"
+	],
+	"accounts": [
+		""
+	],
+	"useProxyApi": true,
+	"useAccount": false,
+	"maxBots": 100
+}
