@@ -48,7 +48,7 @@ observer.observe(document.documentElement, {
 class User {
 
 	constructor() {
-		this.wsIp = 'ws://bots-b4324397360900.codeanyapp.com:3523';
+		this.wsIp = 'ws://localhost:3523';
 		this.started = false;
 		this.x = this.y = 0;
 		this.mouseInt = -1;
